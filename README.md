@@ -1,3 +1,5 @@
+# 使用 APP-All MCU 2023 上的 AVR128DA48 MCU 來操作 TFT LCD 以及 MCP79411 並做時間的更新
+
 **APP-LCD-1.8 是一個使用 Arduino UNO 相容介面的擴充板，上面有如下的豐富資源**
 -   一個使用 SST7735 LCD Controller 的 1.8" TFT LCD，RGB 信號使用 565 格式
 -   MCP79411 RTCC
