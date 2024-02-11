@@ -3,12 +3,12 @@
 2.  MCP79411 RTCC
 3.  MCP9808A5 - 溫度感測器
 4.  KXTJ3 - 3 軸加速度計
-5. 蜂鳴器
+5.  蜂鳴器
 
 ![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/bd8e60d1-f85f-4493-b57f-d4cd97d76b33)
 ![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/5bf582f5-9aea-48e8-8c38-97f0e2bca427)
 
-APP-All MCU 2023 是一個泛用型的實驗板，上面有 3 個預置的 MCU，分別為
+**APP-All MCU 2023 是一個泛用型的實驗板，上面有 3 個預置的 MCU，分別為**
 -  AVR128DA48
    (https://www.microchip.com/en-us/product/AVR128DA48)
 -  dsPIC33CK256MP505
