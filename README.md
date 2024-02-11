@@ -1,9 +1,9 @@
 **APP-LCD-1.8 是一個使用 Arduino UNO 相容介面的擴充板，上面有如下的豐富資源**
-1.  一個使用 SST7735 LCD Controller 的 1.8" TFT LCD，RGB 信號使用 565 格式
-2.  MCP79411 RTCC
-3.  MCP9808A5 - 溫度感測器
-4.  KXTJ3 - 3 軸加速度計
-5.  蜂鳴器
+-   一個使用 SST7735 LCD Controller 的 1.8" TFT LCD，RGB 信號使用 565 格式
+-   MCP79411 RTCC
+-   P9808A5 - 溫度感測器
+-   KXTJ3 - 3 軸加速度計
+-   蜂鳴器
 
 ![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/bd8e60d1-f85f-4493-b57f-d4cd97d76b33)
 ![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/5bf582f5-9aea-48e8-8c38-97f0e2bca427)
