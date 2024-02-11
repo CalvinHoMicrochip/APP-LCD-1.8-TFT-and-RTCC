@@ -22,3 +22,11 @@ AVR128DA48 雖為一個 8 位元的 MCU，但其 24 MIPS 的效能以及豐富�
 
 執行的結果如下 : 
 ![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/dae7b1f6-f2e3-4809-802d-110a138da2a5)
+
+MCC Content Manager 的使用版本如下 :
+![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/354f3c7f-e1c2-4ea2-8aff-bc1090f8a3b6)
+
+![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/34a7a3a6-dbd6-46eb-8a27-1391da4a74b3)
+
+
+
