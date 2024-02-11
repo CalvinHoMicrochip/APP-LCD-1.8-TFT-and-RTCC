@@ -12,4 +12,11 @@ APP-All MCU 2023 是一個泛用型的實驗板，上面有 3 個預置的 MCU�
 -  dsPIC33CK256MP505
 -  PIC32CM2532
 
+AVR128DA48 雖為一個 8 位元的 MCU，但其 24 MIPS 的效能以及豐富的周邊，我們希望透過更多的外部周邊元件的整體運作展示，來讓有興趣的使用者可以藉此評估使用此系列 MCU 的可能性
+
+以下為本範例的 MCC Melody Builder 的內容及 Pin 腳的設定，請下載附件中的 APP-LCD-1.8 線路圖來了解為何定義這樣的接腳安排
+
 ![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/ae137553-7a51-4cd6-91fb-cc62cc92cd0a)
+
+執行的結果如下 : 
+![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/dae7b1f6-f2e3-4809-802d-110a138da2a5)
