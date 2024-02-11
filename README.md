@@ -5,7 +5,8 @@ APP-LCD-1.8 是一個使用 Arduino UNO 相容介面的擴充板，上面有如�
 4.  KXTJ3 - 3 軸加速度計
 5. 蜂鳴器
 
-![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/75788aac-6180-43f2-b2a0-f6f676e6541f)
+![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/bd8e60d1-f85f-4493-b57f-d4cd97d76b33)
+![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/5bf582f5-9aea-48e8-8c38-97f0e2bca427)
 
 APP-All MCU 2023 是一個泛用型的實驗板，上面有 3 個預置的 MCU，分別為
 -  AVR128DA48
