@@ -9,7 +9,7 @@ APP-LCD-1.8 是一個使用 Arduino UNO 相容介面的擴充板，上面有如�
 ![image](https://github.com/CalvinHoMicrochip/APP-LCD-1.8-TFT-and-RTCC/assets/20454551/5bf582f5-9aea-48e8-8c38-97f0e2bca427)
 
 APP-All MCU 2023 是一個泛用型的實驗板，上面有 3 個預置的 MCU，分別為
--  AVR128DA48
+-  AVR128DA48(https://www.microchip.com)
 -  dsPIC33CK256MP505
 -  PIC32CM2532
 
